@@ -1,0 +1,22 @@
+4816-INFO-Start the data extraction process
+4816-INFO-Table names : ['customers', 'orders', 'order_items', 'products', 'categories', 'reviews']
+4816-INFO-Extraction is completed for customers
+4816-INFO-Extraction is completed for orders
+4816-INFO-Extraction is completed for order_items
+4816-INFO-Extraction is completed for products
+4816-INFO-Extraction is completed for categories
+4816-INFO-Extraction is completed for reviews
+4816-INFO-List of tables dataframe : {'customers': Empty DataFrame
+Columns: [customer_id, name, email, country]
+Index: [], 'orders': Empty DataFrame
+Columns: [order_id, customer_id, order_date, total_amount, status]
+Index: [], 'order_items': Empty DataFrame
+Columns: [item_id, order_id, product_id, quantity, price]
+Index: [], 'products': Empty DataFrame
+Columns: [product_id, product_name, category_id]
+Index: [], 'categories': Empty DataFrame
+Columns: [category_id, category_name]
+Index: [], 'reviews': Empty DataFrame
+Columns: [review_id, product_id, customer_id, rating, review_date]
+Index: []}
+4816-INFO-Data extraction process is completed

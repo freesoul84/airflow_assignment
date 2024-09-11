@@ -1,0 +1,10 @@
+6308-INFO-Start the data extraction process
+6308-INFO-Table names : ['customers', 'orders', 'order_items', 'products', 'categories', 'reviews']
+6308-INFO-Extraction is completed for {tbl}
+6308-INFO-Extraction is completed for {tbl}
+6308-INFO-Extraction is completed for {tbl}
+6308-INFO-Extraction is completed for {tbl}
+6308-INFO-Extraction is completed for {tbl}
+6308-INFO-Extraction is completed for {tbl}
+6308-INFO-List of tables dataframe : {tables_df_dict}
+6308-INFO-Data extraction process is completed
